@@ -1,0 +1,5 @@
+pip install pypiwin32
+pip install pywin32
+pip install gspread
+pip install google-api-python-client
+pip insall oauth2client
